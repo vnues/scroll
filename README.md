@@ -228,5 +228,3 @@ pullingUp | 触发时机：在一次上拉加载的动作后，这个时机一�
 
 # More detailed settings, please visit
 [better-scroll document](https://ustbhuangyi.github.io/better-scroll/doc/)
-
-# Author Blog
