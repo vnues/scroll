@@ -2,7 +2,7 @@
 
 > A vue plugins based on [better-scroll](https://github.com/ustbhuangyi/better-scroll)
 
-> 最近写移动端项目，下拉刷新、上拉加载的场景很常见，发现 [mint-ui](https://github.com/ElemeFE/mint-ui) 的 Loadmore 组件效果体验不尽如人意， [Vux](https://github.com/airyland/vux) 的 Scroller 组件作者不推荐使用也停止维护了，最后决定根据better-scroll封装成自己的vue组件，作者也提供了详细的教程。
+> 下拉刷新、上拉加载的场景很常见， [Vux](https://github.com/airyland/vux) 的 Scroller 组件作者不推荐使用也停止维护了，最后决定根据better-scroll封装成自己的vue组件，作者也提供了详细的教程。
 
 
 # 滚动原理
@@ -230,5 +230,3 @@ pullingUp | 触发时机：在一次上拉加载的动作后，这个时机一�
 [better-scroll document](https://ustbhuangyi.github.io/better-scroll/doc/)
 
 # Author Blog
-
-[Gold_Gold](https://juejin.im/user/5972b4386fb9a06bb5406eac)
